@@ -11,5 +11,11 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-09-28 17:06:51 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
